@@ -7,7 +7,7 @@ Instructions to run:
 
 5. Compile the ParkingLot.java file - 
 		>javac ParkingLot.java
-		This will create a new class file. Now repeat the step 4.
+		This will create a new class file.
 		
 6. Run the class file (ParkingLot.class) -
 		>java ParkingLot <input file>
