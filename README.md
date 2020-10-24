@@ -16,4 +16,4 @@ Instructions to run:
 		This will create a new class file. Now repeat the step 4.
 
 Note - 1. There should not be any extra spaces between the words of the commands.
-	   2. There should not be any blank lines.
+       2. There should not be any blank lines.
